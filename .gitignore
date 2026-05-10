@@ -1,0 +1,12 @@
+# MATLAB
+*.asv
+*.m~
+*.slx.r20*
+*.mat
+*.mlx
+cache/
+simulink_cache/
+
+# Mac
+.DS_Store
+._*
