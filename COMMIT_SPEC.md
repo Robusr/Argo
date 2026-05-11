@@ -54,6 +54,7 @@ Closes #45
 - bugfix/xxx：bug修复分支，用于修复dev分支或main分支的bug，基于对应分支创建，命名格式：bugfix/模块- bug描述（如bugfix/hardware-stm32-uart-error）
 - hotfix/xxx：紧急修复分支，用于修复main分支的紧急bug（不影响dev分支开发），基于main分支创建，修复后同步合并到dev和main分支，命名格式：hotfix/bug描述（如hotfix/software-crash）
 - release/xxx：版本发布分支，用于版本迭代准备，基于dev分支创建，命名格式：release/v主版本号.次版本号.修订号（如release/v1.0.0），测试稳定后合并到main和dev分支
+- 根据具体情况，会临时改变分支规则
 
 ### 3.3 dev分支专项管理规范
 1. dev分支为团队开发核心分支，所有新功能、bug修复（非紧急）均需通过临时分支合并到dev，禁止直接向dev分支提交代码
