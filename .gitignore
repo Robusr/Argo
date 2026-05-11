@@ -10,3 +10,37 @@ simulink_cache/
 # Mac
 .DS_Store
 ._*
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+.vscode-test/
+
+# Byte-compiled / optimized / DLL files / C extensions
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.dll
+*.pyd
+
+# virtualenv / venv
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
