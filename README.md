@@ -25,10 +25,10 @@ cd Argo
 ```
 
 ### 2. 环境配置
-- 仿真模块：安装 Matlab 2020b+、Ansys 2021+
+- 仿真模块：安装Matlab 2020b+、Ansys 2021+
 - 软件模块：参考 `Software/README.md` 安装Python依赖
-- 硬件模块：安装 STM32CubeMX、MDK-ARM、树莓派开发环境
-- 建模模块：安装 SolidWorks 2020+
+- 硬件模块：安装STM32CubeMX、MDK-ARM、树莓派开发环境
+- 建模模块：安装SolidWorks 2020+
 
 ### 3. 模块运行
 各模块的详细运行步骤请参考对应目录下的 `README.md` 文档。
