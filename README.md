@@ -39,7 +39,7 @@ cd Argo
 - 问题反馈：通过 GitHub Issue 提交问题，PR 提交需经过审核
 
 ## 文档说明
-- `COMMIT_SPEC.md`：Git 提交规范、分支管理（含dev分支）及 PR/Issue 规范
+- `COMMIT_SPEC.md`：Git 提交规范、分支管理（含dev分支）及PR/Issue规范
 - `DEV_SPEC.md`：开发规范、代码风格及命名规则
 - `FILE_STRUCTURE.md`：仓库文件结构规范
 - 各模块 `README.md`：对应模块的详细说明、环境配置及使用方法
