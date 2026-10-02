@@ -36,7 +36,7 @@ cd Argo
 ## 团队协作
 - 分支管理：遵循 `COMMIT_SPEC.md` 中的分支命名及dev分支管理规范
 - 代码提交：严格按照提交规范执行，确保提交信息清晰
-- 问题反馈：通过GitHub Issue提交问题，PR 提交需经过审核
+- 问题反馈：通过GitHub Issue提交问题，PR提交需经过审核
 
 ## 文档说明
 - `COMMIT_SPEC.md`：Git 提交规范、分支管理（含dev分支）及PR/Issue规范
