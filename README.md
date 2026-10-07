@@ -14,7 +14,7 @@ Argo 是华中科技大学科创班定量工程设计方法课程设计项目，
 |------|------------------|
 | 仿真分析（Analysis） | Matlab、Ansys    |
 | 上位机软件（Software） | Python、PyQt5   |
-| 硬件嵌入式（Hardware） | STM32、树莓派、嘉立创EDA |
+| 硬件嵌入式（Hardware） | STM32、树莓派、嘉立创EDA  |
 | 三维建模（Drawings） | SolidWorks      |
 
 ## 快速开始
